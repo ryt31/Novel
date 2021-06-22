@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - MessageKeyEventManager
+  - Enemy
+  - Tgt
+  - Searcher
+  - PatrolPosition
+  - BackGround
+  - BackGroundBad
+  - Modal
+  - TitleBackGround
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Ground
+  - Glass
+  - Bush
+  - Wall
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 1792567631
+    locked: 0
+  - name: Wall
+    uniqueID: 75015155
+    locked: 0
+  - name: Bush
+    uniqueID: 1356869545
+    locked: 0
+  - name: Glass
+    uniqueID: 1587696877
+    locked: 0
+  - name: Deco
+    uniqueID: 4256348009
+    locked: 0
